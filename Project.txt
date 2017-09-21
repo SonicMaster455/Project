@@ -1,0 +1,55 @@
+Project
+
+Canvass Freelancer =  Salesman.
+Redisign kioson.com
+
+
+Challenge
+Android Developer Native
+JAVA with Swing Connection 
+
+kioson.com/fl.php
+kcp.kioson.com
+blogspot.kioson.com
+
+MVP
+login/signup
+transfer = freelancer trf saldo ke kios
+acquisicition = freelance punya referal
+tracking promoting lewat canvasser/freelancer 
+
+
+project sendiri untuk freelancer
+structure database
+
+user
+Id
+full_name
+email
+password
+phone_number
+Saldo_user
+==============
+Kios
+Id
+Nama
+Alamat
+freelancer_id
+Saldo_kios
+===============
+Transaksi
+Id
+user_id
+kios_id
+kode_refferral
+
+
+retrieve 
+2 factor authentication
+variable komisi
+
+
+http://172.16.2.102/svnphp/web
+
+username	: jordi
+password	: jordi@kioson
